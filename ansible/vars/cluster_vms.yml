@@ -1,0 +1,17 @@
+cluster_vms:
+  kubeBeast:
+    vms:
+      - 9040
+      - 9041
+      - 9042
+  sandbox:
+    vms:
+      - 9060
+      - 9061
+      - 9062
+  neutron:
+    vms:
+      - 9010
+  blade-runner:
+    vms:
+      - 9020

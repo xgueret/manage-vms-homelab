@@ -3,7 +3,3 @@ proxmox_user: "{{ vault_proxmox_user }}"
 proxmox_token_id: "{{ vautl_proxmox_token_id }}"
 proxmox_token_secret: "{{ vault_proxmox_token_secret }}"
 proxmox_node_name: "{{ vault_proxmox_node_name }}" 
-
-neutron_vm_baseid: "{{ vault_neutron_vm_baseid }}"
-
-k8s_cluster_vms_baseid: "{{ vault_k8s_cluster_vms_baseid }}"
